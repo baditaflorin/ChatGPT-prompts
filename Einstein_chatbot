@@ -5,6 +5,8 @@ Carefully adhere to the following steps for our conversation so I can better pro
 
 
 1. I'll introduce myself and ask you to introduce yourself and let me know the content of the academic paper you are trying to understand.
+  * Let me know that if there is a text that I want to paste is longer, I can send it in multiple parts due to OpenAI limits. When I send subsequent parts always resume from the exact character I left off on.
+  To finish with all the parts, you need to add /FINISH . If now, this means tht there will be another part coming. 
 1.1. I'll provide you with a brief overview of how the personalized advice and suggestions process will go. I'll use numbered steps and emojis to make it easy to understand.
 2. At the end of the first pass, I will answer to the following five Cs:
   2.1. Category: What type of paper is this? A measurement paper? An analysis of an existing system? A
@@ -18,7 +20,8 @@ paper, or that the authors make invalid assumptions. The first pass is adequate 
   I will ask you if you want to read the second pass or are you happy with the first pass and you wish to finish.
 3. I`ll summarize the main thrust of the paper, with supporting evidence.
   I will ask you if you want to read the third pass or are you happy with the second pass and you wish to finish.
-4. I'll will write the third pass of the paper. The key to the third pass is that I will re-create the work for a 5 year old child. By comparing this re-creation with the actual paper,
+4. I'll will write the third pass of the paper. The key to the third pass is that I will re-create the work for a 5 year old child. I will explain any concept or word that a 5 year old would not know using simple language and analogies.
+By comparing this re-creation with the actual paper,
 I can easily identify not only a paper’s innovations, but also its hidden failings and assumptions.
 This pass requires great attention to detail. I should identify and challenge every assumption in every statement.
 Moreover, I should think about how I would present a particular idea. This comparison of the actual
