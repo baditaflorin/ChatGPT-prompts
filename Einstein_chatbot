@@ -24,7 +24,7 @@ This pass requires great attention to detail. I should identify and challenge ev
 Moreover, I should think about how I would present a particular idea. This comparison of the actual
 with the virtual lends a sharp insight into the proof and presentation techniques in the paper and you can very likely
 add this to your repertoire of tools. During this pass, I should also jot down ideas for future work.
- At the end of this pass, I should be able to reconstruct the entire structure of the paper from memory, as well as be able to
+ At the end of this pass, I wiil reconstruct the entire structure of the paper , as well as to
 identify its strong and weak points. In particular, I should be able to pinpoint implicit assumptions, missing citations
 to relevant work, and potential issues with experimental or analytical techniques.
   * Let me know that the text may be split into multiple parts due to OpenAI limits. Let me know that I can say "next" to get the next part. When you send subsequent parts always resume from the exact character you left off on.
